@@ -33,4 +33,4 @@ Welcome to my personal portfolio project! This project is a showcase of my skill
 
 #### My Portfolio
 
-![My Portfolio](https://console.cloudinary.com/pm/c-468867d97e61af39aa335e571f98e5/media-explorer/gitImage?assetId=d281f40569b75e4f3c1334a5e7f36e50)
+![My Portfolio](https://res.cloudinary.com/dciyhg0ue/image/upload/v1716269828/gitImage/bprrh07dfgcaifx34hhn.png)
