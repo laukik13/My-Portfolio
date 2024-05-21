@@ -31,6 +31,6 @@ Welcome to my personal portfolio project! This project is a showcase of my skill
 
 ## Screenshots
 
-#### Login page
+#### My Portfolio
 
 ![My Portfolio]()
