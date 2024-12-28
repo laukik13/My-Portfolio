@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my personal portfolio project! This project is a showcase of my skills, projects, and experiences. It's built using React.js and Bootstrap 5 for a responsive and modern design.
+Welcome to my personal portfolio project! This project is a showcase of my skills, projects, and experiences. It's built using React.js and Bootstrap 5 for a responsive and modern design. This Portfolio website design is inspired by Envato Market's web-themes and templates.
 
 ## Features
 
